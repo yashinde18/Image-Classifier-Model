@@ -1,0 +1,16 @@
+In this course, we are going to focus on five learning objectives:
+
+1 Setting up and getting an overview of Colab notebook
+
+2 Loading data, previewing and visualizing data for model
+
+3 Preprocessing and Normalizing the data for model training
+
+4 Model architecture setup, training and evaluation
+
+5 Model testing on data and wrap-up
+
+
+extra links:
+https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5
+https://towardsdatascience.com/training-a-convolutional-neural-network-from-scratch-2235c2a25754
